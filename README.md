@@ -3,9 +3,7 @@ ZenithOS:
 ZenithOS is a browser-based desktop environment that I built using HTML, CSS and vanilla JavaScript. I wanted to make a website that feels like a small operating system, so I added draggable windows, a macOS-style dock, a terminal, settings, and a few mini games.
 
 Live Demo:
-
-https://joshith498-crypto.github.io/ZenithOS/ Important Note The live Demo Isn't Working So who ever wants to try the web os please download the zip and open index.html in your browsers
-
+https://6a469719f95ad03b0f7ce296--sweet-salamander-d6d68d.netlify.app/
 Features:
 
 - Draggable windows
